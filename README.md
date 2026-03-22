@@ -29,9 +29,9 @@
 
 ### Визуализации
 
-![График цен](visualizations/visualizations/Динамика цен на яйца в России (2015-2025).png)
-![Рост цен (%)](visualizations/visualizations/Рост цен (%).png)
-![Сравнение с инфляцией](visualizations/visualizations/Цены на яйца на фоне инфляции.png)
+![График цен](visualizations/graph1.png)
+![Рост цен (%)](visualizations/graph2.png)
+![Сравнение с инфляцией](visualizations/graph3.png)
 
 ## Выводы
 - Яйца чувствительны к экономическим колебаниям, резкий рост цен совпадает с кризисными событиями.  
